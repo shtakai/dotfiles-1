@@ -1,5 +1,7 @@
 # holman does dotfiles
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/dotfiles-1.svg)](https://www.guardrails.io)
+
 Your dotfiles are how you personalize your system. These are mine.
 
 I was a little tired of having long alias files and everything strewn about
